@@ -1,4 +1,4 @@
-AI Text Generator
+#AI Text Generator#
 
 Welcome to AI Text Generator!
 
